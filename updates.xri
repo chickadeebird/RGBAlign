@@ -2,7 +2,7 @@
 <xri version="1.0">
    <description>
       <p>
-		First release of Linear Deblur Script from chickadeebird, with additional denoise script added.
+		First release of RGB Align Script from chickadeebird.
       </p>
       <p>
       The scripts have been written by Chick Dee (alias chickadeebird).
@@ -12,11 +12,11 @@
    <platform os="all" arch="noarch" version="1.8.9:2.0.0">
       <package fileName="RGBAlignv1.0.0beta.zip" sha1="1c818bbe7fdf50f216dbbbb1a2c258daf448a3f8" type="script" releaseDate="20250122">
          <title>
-            Script for LinearDeblur - Linear Deblur Script.
+            Script for RGBAlign - RGB Align Script.
          </title>
          <description>
             <p>
-               Script for deblurring stars that have elongated, usually due to suboptimal guiding. <br/>
+               Script for realigning RGB stars that may be misaligned due to demosaicing issues or chromatic aberration. <br/>
             </p>
          </description>
       </package>
