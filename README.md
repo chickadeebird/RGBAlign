@@ -22,13 +22,13 @@ The script works on RGB images where the channels are misaligned and therefore d
 
 This is a sample pair of an RGB image that is misaligned (left), and its realiged image after the script (right).
 
-<img src="./figs/Deblurred Stars Only.png" text='Deblurred stars using the "Stars Only" script - left blurry stars, right deblurred' align=left />
+<img src="./figs/RGBAlign realigned stars.png" text='Deblurred stars using the "Stars Only" script - left blurry stars, right deblurred' align=left />
 
 ## Script
 
 This is the script interface for the RGBAlign script.
 
-<img src="./figs/RGBAlign Script.png" text='RGBAlign script' align=left />
+<img src="./figs/RGBAlign script.png" text='RGBAlign script' align=left />
 
 This can be found here: ChickadeeScripts > RGBAlign after installation.
 
