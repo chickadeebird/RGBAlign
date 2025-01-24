@@ -10,7 +10,7 @@
       </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9:2.0.0">
-      <package fileName="RGBAlignv1.0.1beta.zip" sha1="a9ab28c2e231c66b28a14d4aec8b1f4df6787eee" type="script" releaseDate="20250123">
+      <package fileName="RGBAlignv1.0.2beta.zip" sha1="edb27e815b216c0f95f8151a3487a068badf760c" type="script" releaseDate="20250124">
          <title>
             Script for RGBAlign - RGB Align Script.
          </title>
